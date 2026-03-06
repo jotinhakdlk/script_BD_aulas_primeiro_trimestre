@@ -1,0 +1,17 @@
+{
+    "name": "lampada",
+    "short_name": "Lamp",
+    "start_url":"./",
+    "display":"standalone",
+    "background_color":"#FFFFFFF",
+    "theme_color":"#0d6fe",
+    "icons":[{
+        "src":"./img/lamp.png",
+        "size":"192x192",
+        "type":"image/png"
+    }, {
+        "src":"./img/lamp2.png",
+        "size":"512x512",
+        "type":"image/png"
+    }]
+}
